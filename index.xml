@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Mike Grella</title>
+    <link>https://magrella.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Mike Grella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://magrella.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering Production Decline Characteristics of Oil Wells</title>
+      <link>https://magrella.github.io/portfolio/post/project-1/</link>
+      <pubDate>Fri, 22 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://magrella.github.io/portfolio/post/project-1/</guid>
+      <description>Petroleum and natural gas remain the most-consumed sources of energy in the United States through 2050, this energy demand requires to be replenished since oil rates decline with time due to the natural loss of reservoir pressure.
+The most common form of visualization to understand oil and gas production is a rate vs. time plot. It is common to average the rates of hundreds of wells to evaluate the performance of a single or group of wells against a benchmark in a particular.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://magrella.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://magrella.github.io/portfolio/about/</guid>
+      <description>I am a Mechanical and Petroleum Engineer with almost 20 years of experience, analyzing data has been almost a daily task. Three years ago I discovered the power of Data Science to reveal hidden relationships within large datasets, since then my interest is in understanding how the application of data exploration and machine learning can help in solving real engineering problems.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://magrella.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://magrella.github.io/portfolio/contact/</guid>
+      <description>Feel free to email me or find me or connect with me on Linkedin:
+Mail Linkedin </description>
+    </item>
+    
+  </channel>
+</rss>
